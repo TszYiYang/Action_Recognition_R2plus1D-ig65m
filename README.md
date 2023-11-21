@@ -11,7 +11,7 @@ This respository is a modified version of [Microsoft-computervision-recipes](htt
 
 2. Clone the repository (require my admin login)
     ```
-    git clone https://github.tamu.edu/yangze2065/CSCE636-Spring2021 
+    git clone [https://github.tamu.edu/yangze2065/CSCE636-Spring2021](https://github.com/TszYiYang/Action_Recognition_R2plus1D-ig65m.git) 
     ```
 3. Download the repository as zip file, extract the file to local machine (recommended, no password required)
     ```
