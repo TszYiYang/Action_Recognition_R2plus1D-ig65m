@@ -1,5 +1,3 @@
-# CSCE636-Spring2021-CochiLocoYang
-
 Due to the size limitation on Github, the two demonstrative videos are uploaded to Youtube with the following hyperlinks for reviewing.
 
 #### Demonstration Video 1. [Training and testing the DL model](https://youtu.be/JFYeygxIdTo) (11 minutes)
