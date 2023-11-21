@@ -19,7 +19,7 @@ This respository is a modified version of [Microsoft-computervision-recipes](htt
     ```
 1. Install the conda environment, you'll find the `environment.yml` file in the root directory. To build the conda environment:
     ```
-    cd CSCE636-Spring2021-master
+    cd Action_Recognition_R2plus1D-ig65m
     conda env create -f environment.yml
     ```
 1. Activate the conda environment and register it with Jupyter:
